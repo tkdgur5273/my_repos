@@ -23,7 +23,7 @@ email: tkdgur5273@skku.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Themed by ejjoo
 baseurl: "/my_repos" # the subpath of your site, e.g. /blog
-# url: "http://tkdgur5273.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tkdgur5273.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: tkdgur5273
 highlighter: rouge
 svg:
